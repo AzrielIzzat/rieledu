@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react'
 import { AnimatePresence, motion } from 'framer-motion'
-import { BookOpen, Layers, Play, Code2, CircleHelp, ClipboardCheck, FileText, Database, Search, Menu, X, ArrowRight, Sparkles, Laptop, ChevronRight, GraduationCap, Clock3, Download, ExternalLink, Copy, Check, SlidersHorizontal, BookMarked, ShieldCheck, Plus, Trash2, Pencil, LockKeyhole, Printer, Youtube, Mail, Github, Home, Library, LayoutDashboard } from 'lucide-react'
+import { BookOpen, Layers, Play, Code2, CircleHelp, ClipboardCheck, FileText, Database, Search, Menu, X, ArrowRight, Sparkles, Laptop, ChevronRight, GraduationCap, Clock3, Download, ExternalLink, Copy, Check, SlidersHorizontal, BookMarked, ShieldCheck, Plus, Trash2, Pencil, LockKeyhole, Printer } from 'lucide-react'
 import type { LucideIcon } from 'lucide-react'
 import { starterResources, forms, type Resource, type ResourceType } from './data'
 
